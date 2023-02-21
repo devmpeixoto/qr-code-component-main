@@ -54,7 +54,7 @@
     --h1-color: #202f4f;
   }
 
-  body{
+  main{
     background-color: var(--bg-main);
     display: flex;
     justify-content: center;
